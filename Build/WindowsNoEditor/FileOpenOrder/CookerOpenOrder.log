@@ -1,0 +1,1409 @@
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse01.uasset" 0
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse01.uexp" 1
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse02.uasset" 2
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse02.uexp" 3
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire01.uasset" 4
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire01.uexp" 5
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire_Sparks01.uasset" 6
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire_Sparks01.uexp" 7
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Smoke01.uasset" 8
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Smoke01.uexp" 9
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Birds01.uasset" 10
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Birds01.uexp" 11
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Music01.uasset" 12
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Music01.uexp" 13
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Wind05.uasset" 14
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Wind05.uexp" 15
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Wind06.uasset" 16
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Wind06.uexp" 17
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Steam01.uasset" 18
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Steam01.uexp" 19
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 20
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 21
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 22
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 23
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 24
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 27
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 28
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 29
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 30
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 31
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 33
+"../../../Engine/Content/BasicShapes/Cone.uasset" 34
+"../../../Engine/Content/BasicShapes/Cone.uexp" 35
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 36
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 37
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 38
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 39
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 40
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 41
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 42
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 43
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 44
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 45
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 46
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 47
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 48
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 49
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 50
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 60
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 61
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 62
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 63
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 64
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 65
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 66
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 67
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 68
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 69
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 70
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 71
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 72
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 73
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 74
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 75
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 76
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 77
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 78
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 79
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 80
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 81
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 82
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 83
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 84
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 85
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 86
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 87
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 88
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 89
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 90
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 91
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 92
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 93
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 94
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 95
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 96
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 97
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 98
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 99
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 100
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 101
+"../../../Engine/Content/EditorResources/S_Note.uasset" 102
+"../../../Engine/Content/EditorResources/S_Note.uexp" 103
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 104
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 105
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 106
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 107
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 108
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 109
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 110
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 111
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 112
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 113
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 114
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 115
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 116
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 117
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 118
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 119
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 120
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 121
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 122
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 123
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 124
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 125
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 126
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 127
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 128
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 129
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 130
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 131
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 132
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 133
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 134
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 135
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 137
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 138
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 141
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 142
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 143
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 145
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 146
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 147
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 148
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 149
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 150
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 151
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 156
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 157
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 158
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 159
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 160
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 161
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 162
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 163
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 164
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 165
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 166
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 167
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 168
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 169
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 170
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 171
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 172
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 173
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 174
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 175
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 176
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 177
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 178
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 179
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 181
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 182
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 183
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 184
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 185
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 186
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 187
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 188
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 189
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 192
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 194
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 195
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 196
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 197
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 198
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 200
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 201
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 203
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 204
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 205
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 207
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 208
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 209
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 210
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 211
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 212
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 213
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 216
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 218
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 220
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 221
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 222
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 224
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 225
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 226
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 227
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 228
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 230
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 231
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 232
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 233
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 236
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 241
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 242
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 243
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 244
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 245
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 248
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 249
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 250
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 251
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 252
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 253
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 254
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 255
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 256
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 257
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 259
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 260
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 261
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 262
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 263
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 264
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 265
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 266
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 267
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 268
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 269
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 270
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 271
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 272
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 273
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 274
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 275
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 276
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 279
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 280
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 281
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 282
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 283
+"../../../Engine/Content/EngineSounds/Master.uasset" 284
+"../../../Engine/Content/EngineSounds/Master.uexp" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 287
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 288
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 289
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 290
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 291
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 292
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 293
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 294
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 295
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 296
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 297
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 299
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 301
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 303
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 305
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 321
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 322
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 323
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 324
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 325
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 326
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 327
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 328
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 329
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 330
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 331
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 332
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 333
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 334
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 335
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 336
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 337
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 338
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 339
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 340
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 341
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 342
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 343
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 344
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 345
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 346
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 347
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 348
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 349
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 350
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 351
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 352
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 353
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 354
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 355
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 356
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 357
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 358
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 359
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 360
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 361
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 362
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 363
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 364
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 365
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 366
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 367
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 368
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 370
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 371
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 372
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 373
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 374
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 375
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 376
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 377
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 380
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 381
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 382
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 383
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 384
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 392
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 393
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 394
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 395
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 396
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 397
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 398
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 399
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 400
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 401
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 402
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 403
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 404
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 405
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 406
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 407
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 408
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 409
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 410
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 411
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 412
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 413
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 414
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 415
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 416
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 417
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 418
+"../../../Engine/Content/EngineResources/Black.uasset" 419
+"../../../Engine/Content/EngineResources/Black.uexp" 420
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 421
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 422
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 423
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 424
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 425
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 426
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 427
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 428
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 429
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 430
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 431
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 432
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 433
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 434
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 435
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 436
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 437
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 438
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 439
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 440
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 441
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 442
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 443
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 444
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 445
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 446
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 447
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 448
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 449
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 450
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 451
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 452
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 453
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 454
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 455
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 456
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 457
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 458
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 459
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 460
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 461
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 462
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 463
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 464
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 465
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 466
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 467
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 468
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 469
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 470
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 471
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 472
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 473
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 474
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 475
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 476
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 477
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 478
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 479
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 480
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 481
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 482
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 483
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 484
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 485
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 486
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 487
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 488
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 489
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 490
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 491
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 492
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 493
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 494
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 495
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 496
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 497
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 498
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 499
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 500
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 501
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 502
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 503
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 504
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 505
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 506
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 507
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 508
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 509
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 510
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 511
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 512
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 513
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 514
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 515
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 516
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 517
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 518
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 519
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 520
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 521
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 522
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 523
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 524
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 525
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 526
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 527
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 528
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 529
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 530
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 531
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 532
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 533
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 534
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 535
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 536
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 537
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 538
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 539
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 540
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 541
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 542
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 543
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 544
+"../../../Engine/Content/BasicShapes/Plane.uasset" 545
+"../../../Engine/Content/BasicShapes/Plane.uexp" 546
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_fizica.uasset" 547
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_fizica.uexp" 548
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_fizica_material.uasset" 549
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_fizica_material.uexp" 550
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_3.uasset" 551
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_3.uexp" 552
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_2.uasset" 553
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_2.uexp" 554
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 555
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 556
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 557
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 558
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 559
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 560
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 561
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 562
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 563
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 564
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 565
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 566
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 567
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 568
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 569
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 570
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 571
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 572
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 573
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 574
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew_Skeleton1.uasset" 575
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew_Skeleton1.uexp" 576
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew_PhysicsAsset.uasset" 577
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew_PhysicsAsset.uexp" 578
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew.uasset" 579
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Andrew.uexp" 580
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Specular.uasset" 581
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Specular.uexp" 582
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Specular.ubulk" 583
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Normal.uasset" 584
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Normal.uexp" 585
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Normal.ubulk" 586
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Diffuse.uasset" 587
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Diffuse.uexp" 588
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Diffuse.ubulk" 589
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Diffuse_Mat.uasset" 590
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Ch09_1001_Diffuse_Mat.uexp" 591
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 592
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 593
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 594
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 595
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Running.uasset" 596
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Running.uexp" 597
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Jumping_Up.uasset" 598
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Jumping_Up.uexp" 599
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Jumping_Down.uasset" 600
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Jumping_Down.uexp" 601
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_idle.uasset" 602
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_idle.uexp" 603
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Falling.uasset" 604
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Falling.uexp" 605
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Anim.uasset" 606
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Animatii/Andrew_Anim.uexp" 607
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Felicitari/felicitari_mate.uasset" 608
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Felicitari/felicitari_mate.uexp" 609
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Felicitari/felicitari_math.uasset" 610
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Felicitari/felicitari_math.uexp" 611
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_basecolor.uasset" 612
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_basecolor.uexp" 613
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_basecolor.ubulk" 614
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_height.uasset" 615
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_height.uexp" 616
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_height.ubulk" 617
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_metallic.uasset" 618
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_metallic.uexp" 619
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_metallic.ubulk" 620
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_normal.uasset" 621
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_normal.uexp" 622
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_normal.ubulk" 623
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_roughness.uasset" 624
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_roughness.uexp" 625
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_roughness.ubulk" 626
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_ambientOcclusion.uasset" 627
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_ambientOcclusion.uexp" 628
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_ambientOcclusion.ubulk" 629
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_basecolor_Mat.uasset" 630
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Wood_Gate_Fortified_003_basecolor_Mat.uexp" 631
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa2.uasset" 632
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa2.uexp" 633
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa_Blueprint.uasset" 634
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa_Blueprint.uexp" 635
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_002.uasset" 636
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_002.uexp" 637
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_003.uasset" 638
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_003.uexp" 639
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/cameraa.uasset" 640
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/cameraa.uexp" 641
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/esglf1kh.uasset" 642
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/esglf1kh.uexp" 643
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/lava_Mat.uasset" 644
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/lava_Mat.uexp" 645
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/camera_Blueprint.uasset" 646
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/camera_Blueprint.uexp" 647
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/lava.uasset" 648
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/lava.uexp" 649
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/CineCameraActor1_Blueprint.uasset" 650
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/CineCameraActor1_Blueprint.uexp" 651
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/camera_mov.uasset" 652
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/camera_mov.uexp" 653
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Digital_Dismay.uasset" 654
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Digital_Dismay.uexp" 655
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Digital_Dismay.ufont" 656
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Digital_Dismay_Font.uasset" 657
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Digital_Dismay_Font.uexp" 658
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/widget_tastatura.uasset" 659
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/widget_tastatura.uexp" 660
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material.uasset" 661
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material.uexp" 662
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_001.uasset" 663
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Material_001.uexp" 664
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/SM_MERGED_tastatura_Cube_014_5.uasset" 665
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/SM_MERGED_tastatura_Cube_014_5.uexp" 666
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Tastatura.uasset" 667
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/Tastatura.uexp" 668
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 669
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uexp" 670
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Portal_mic_Torus.uasset" 671
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Portal_mic_Torus.uexp" 672
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Fizica.uexp" 673
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Fizica.umap" 674
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_001.uasset" 675
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_001.uexp" 676
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 677
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 678
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 679
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 680
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uexp" 681
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_geogra.uasset" 682
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_geogra.uexp" 683
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_geogra_material.uasset" 684
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_geogra_material.uexp" 685
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Geogra.uexp" 686
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Geogra.umap" 687
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_istorie.uasset" 688
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_istorie.uexp" 689
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_istorie_Mat.uasset" 690
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_istorie_Mat.uexp" 691
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_4.uasset" 692
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_4.uexp" 693
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Istorie.uexp" 694
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Istorie.umap" 695
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_AssetPlatform.uasset" 696
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_AssetPlatform.uexp" 697
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 698
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 699
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 700
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 701
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 702
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 703
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 704
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 705
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 706
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 707
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 708
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 709
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 710
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 711
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 712
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 713
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 714
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 715
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 716
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 717
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 718
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 719
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 720
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 721
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 722
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 723
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 724
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 725
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 726
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 727
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 728
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 729
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 730
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 731
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 732
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 733
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 734
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 735
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 736
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 737
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 738
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 739
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 740
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 741
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Advanced_Lighting.uexp" 742
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Advanced_Lighting.umap" 743
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Basic_Floor.uasset" 744
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Basic_Floor.uexp" 745
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Floor_400x400.uasset" 746
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Floor_400x400.uexp" 747
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_N.uasset" 748
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_N.uexp" 749
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_N.ubulk" 750
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_M.uasset" 751
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_M.uexp" 752
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_TableRound_M.ubulk" 753
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_TableRound.uasset" 754
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_TableRound.uexp" 755
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_TableRound.uasset" 756
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_TableRound.uexp" 757
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_N.uasset" 758
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_N.uexp" 759
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_N.ubulk" 760
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_M.uasset" 761
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_M.uexp" 762
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Statue_M.ubulk" 763
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Statue.uasset" 764
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Statue.uexp" 765
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 766
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 767
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Statue.uasset" 768
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Statue.uexp" 769
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_N.uasset" 770
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_N.uexp" 771
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_N.ubulk" 772
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_M.uasset" 773
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_M.uexp" 774
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Chair_M.ubulk" 775
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Chair.uasset" 776
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Chair.uexp" 777
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Chair.uasset" 778
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Chair.uexp" 779
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 780
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 781
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 782
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 783
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 784
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 785
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_MacroVariation.uasset" 786
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_MacroVariation.uexp" 787
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Copper.uasset" 788
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Copper.uexp" 789
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 790
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 791
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 792
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 793
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 794
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 795
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 796
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 797
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 798
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 799
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 800
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 801
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Minimal_Default.uexp" 802
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/Minimal_Default.umap" 803
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Basic_Wall.uasset" 804
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Basic_Wall.uexp" 805
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_Sphere.uasset" 806
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_Sphere.uexp" 807
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 808
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 809
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_Cube.uasset" 810
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Shapes/Shape_Cube.uexp" 811
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_N.uasset" 812
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_N.uexp" 813
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_N.ubulk" 814
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_M.uasset" 815
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_M.uexp" 816
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Frame_M.ubulk" 817
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Frame.uasset" 818
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Frame.uexp" 819
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_WindowFrame.uasset" 820
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_WindowFrame.uexp" 821
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_PillarFrame300.uasset" 822
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_PillarFrame300.uexp" 823
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_PillarFrame.uasset" 824
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_PillarFrame.uexp" 825
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Glass.uasset" 826
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Glass.uexp" 827
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_GlassWindow.uasset" 828
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_GlassWindow.uexp" 829
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_DoorFrame.uasset" 830
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_DoorFrame.uexp" 831
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_CornerFrame.uasset" 832
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_CornerFrame.uexp" 833
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/MaterialSphere.uasset" 834
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/MaterialSphere.uexp" 835
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 836
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 837
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 838
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 839
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 840
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 841
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 842
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 843
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 844
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 845
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 846
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 847
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 848
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 849
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 850
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 851
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 852
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 853
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 854
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 855
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 856
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 857
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 858
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 859
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Pine.uasset" 860
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Pine.uexp" 861
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 862
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 863
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 864
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 865
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 866
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 867
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Oak.uasset" 868
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Oak.uexp" 869
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 870
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 871
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 872
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 873
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 874
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 875
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 876
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 877
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 878
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 879
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 880
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 881
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 882
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 883
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 884
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse_Cue.uasset" 885
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Collapse_Cue.uexp" 886
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 887
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 888
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 889
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 890
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_400x200.uasset" 891
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Architecture/Wall_400x200.uexp" 892
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_M.uasset" 893
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_M.uexp" 894
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_M.ubulk" 895
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_N.uasset" 896
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_N.uexp" 897
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Water_N.ubulk" 898
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 899
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 900
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Water_Ocean.uasset" 901
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Water_Ocean.uexp" 902
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Water_Lake.uasset" 903
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Water_Lake.uexp" 904
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 905
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 906
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 907
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 908
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 909
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 910
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 911
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 912
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 913
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Panel.uasset" 914
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Panel.uexp" 915
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 916
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 917
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 918
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 919
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 920
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 921
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 922
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 923
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 924
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 925
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 926
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 927
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 928
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 929
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 930
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 931
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 932
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 933
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 934
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 935
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 936
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 937
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 938
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 939
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 940
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 941
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 942
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 943
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 944
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 945
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Slate.uasset" 946
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Slate.uexp" 947
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 948
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 949
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 950
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 951
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 952
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 953
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 954
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 955
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 956
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 957
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 958
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 959
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 960
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 961
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 962
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 963
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 964
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 965
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 966
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 967
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 968
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 969
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 970
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 971
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Steel.uasset" 972
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Steel.uexp" 973
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 974
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 975
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 976
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 977
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 978
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 979
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Rust.uasset" 980
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Rust.uexp" 981
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 982
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 983
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 984
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Gold.uasset" 985
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Gold.uexp" 986
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 987
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 988
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 989
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 990
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 991
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 992
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 993
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 994
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Moss.uasset" 995
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Moss.uexp" 996
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 997
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 998
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 999
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1000
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1001
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1002
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1003
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1004
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1005
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1006
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1007
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1008
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1009
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1010
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1011
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1012
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1013
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1014
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1015
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1016
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1017
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1018
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1019
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1020
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1021
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1022
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1023
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1024
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1025
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1026
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1027
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1028
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1029
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1030
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1031
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1032
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1033
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1034
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1035
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1036
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1037
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1038
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1039
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1040
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1041
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1042
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1043
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1044
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1045
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1046
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1047
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1048
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1049
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1050
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1051
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1052
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1053
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1054
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1055
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1056
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1057
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1058
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1059
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1060
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1061
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1062
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1063
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1064
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1065
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1066
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1067
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1068
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1069
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1070
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1071
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1072
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1073
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1074
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1075
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1076
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1077
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1078
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1079
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1080
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1081
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1082
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1083
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1084
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1085
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1086
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1087
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1088
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1089
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1090
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1091
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1092
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1093
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 1094
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 1095
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1096
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1097
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1098
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1099
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1100
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1101
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1102
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1103
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1104
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1105
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1106
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1107
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1108
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1109
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1110
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1111
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1112
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1113
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1114
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1115
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1116
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1117
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1118
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1119
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1120
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1121
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1122
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1123
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1124
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1125
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1126
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1127
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1128
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1129
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1130
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1131
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1132
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1134
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1135
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1136
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1137
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1138
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1139
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1140
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1141
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1142
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1143
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1144
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1145
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1146
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1147
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1148
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_N.uasset" 1149
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_N.uexp" 1150
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1151
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_M.uasset" 1152
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_M.uexp" 1153
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1154
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1155
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1156
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1157
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1158
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1159
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1160
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1161
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 1162
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 1163
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1164
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 1165
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 1166
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1167
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 1168
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1169
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1170
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Steam01_Cue.uasset" 1171
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Steam01_Cue.uexp" 1172
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1173
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1174
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1175
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1176
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Spark_Core.uasset" 1177
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Spark_Core.uexp" 1178
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1179
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1180
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1181
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 1183
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1184
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1185
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Sparks.uasset" 1186
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Sparks.uexp" 1187
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1188
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1189
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1190
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1191
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Smoke.uasset" 1192
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Smoke.uexp" 1193
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1194
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1195
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire01_Cue.uasset" 1196
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Fire01_Cue.uexp" 1197
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1198
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1199
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1200
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1201
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1202
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1203
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1204
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1205
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1206
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1207
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Fire.uasset" 1208
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Particles/P_Fire.uexp" 1209
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1210
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1211
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1212
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1213
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1214
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1215
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1216
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1217
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/StarterMap.uexp" 1218
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/StarterContent/Maps/StarterMap.umap" 1219
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1220
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1221
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1222
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 1223
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/BP_Savegame.uasset" 1224
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/BP_Savegame.uexp" 1225
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/BP_GameMode_Lobby.uasset" 1226
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/BP_GameMode_Lobby.uexp" 1227
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Respawn_Lobby_bp.uasset" 1228
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Respawn_Lobby_bp.uexp" 1229
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Royalty.uasset" 1230
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Royalty.uexp" 1231
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_6(1).uasset" 1232
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_6(1).uexp" 1233
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_5.uasset" 1234
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/Material_5.uexp" 1235
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Royalty_Blueprint.uasset" 1236
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Andrew_V2/Royalty_Blueprint.uexp" 1237
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Tranzitie.uasset" 1238
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Tranzitie.uexp" 1239
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/7g3g8ezg.uasset" 1240
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/7g3g8ezg.uexp" 1241
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portalimg.uasset" 1242
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portalimg.uexp" 1243
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/88rh9cfl.uasset" 1244
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/88rh9cfl.uexp" 1245
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/obsidian.uasset" 1246
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/obsidian.uexp" 1247
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal.uasset" 1248
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal.uexp" 1249
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_Blueprint.uasset" 1250
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_Blueprint.uexp" 1251
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_mate.uasset" 1252
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_mate.uexp" 1253
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_mate_material.uasset" 1254
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_mate_material.uexp" 1255
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_final.uasset" 1256
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_final.uexp" 1257
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_final_Mat.uasset" 1258
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Portal/portal_final_Mat.uexp" 1259
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1260
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uexp" 1261
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.ufont" 1262
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1263
+"../../../Engine/Content/EngineFonts/RobotoTiny.uexp" 1264
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/WB_SaveLoadRestartMenu.uasset" 1265
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/WB_SaveLoadRestartMenu.uexp" 1266
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Lobby_BuiltData.uasset" 1267
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Lobby_BuiltData.uexp" 1268
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Lobby_BuiltData.ubulk" 1269
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Lobby.uexp" 1270
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Lobby.umap" 1271
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate_BuiltData.uasset" 1272
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate_BuiltData.uexp" 1273
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate_BuiltData.ubulk" 1274
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa_anim.uasset" 1275
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/usa_anim.uexp" 1276
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/BP_GameMode_Mate.uasset" 1277
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/BP_GameMode_Mate.uexp" 1278
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Respawn_Mate_bp.uasset" 1279
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/ThirdPersonBP/Blueprints/Respawn_Mate_bp.uexp" 1280
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1281
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1282
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Noise_01_RMA.uasset" 1283
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Noise_01_RMA.uexp" 1284
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Noise_01_RMA.ubulk" 1285
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Moss_01_BC.uasset" 1286
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Moss_01_BC.uexp" 1287
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Moss_01_BC.ubulk" 1288
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_N.uasset" 1289
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_N.uexp" 1290
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_N.ubulk" 1291
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_BC.uasset" 1292
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_BC.uexp" 1293
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_BC.ubulk" 1294
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 1295
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uexp" 1296
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1297
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 1298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 1299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 1300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 1301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uexp" 1302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 1303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uexp" 1304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 1305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uexp" 1306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 1307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uexp" 1308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 1309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uexp" 1310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset" 1315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uexp" 1316
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_RMA.uasset" 1317
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_RMA.uexp" 1318
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_RMA.ubulk" 1319
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_Height.uasset" 1320
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_Height.uexp" 1321
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_Height.ubulk" 1322
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/Masters/M_CF_01_Master_Vertex_Painting_01.uasset" 1323
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/Masters/M_CF_01_Master_Vertex_Painting_01.uexp" 1324
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_N.uasset" 1325
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_N.uexp" 1326
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_N.ubulk" 1327
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_BC.uasset" 1328
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_BC.uexp" 1329
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Stone_Wall_01_BC.ubulk" 1330
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Stone_Wall_01.uasset" 1331
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Stone_Wall_01.uexp" 1332
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Corner_03.uasset" 1333
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Corner_03.uexp" 1334
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01.uasset" 1335
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01.uexp" 1336
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_RMA.uasset" 1337
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_RMA.uexp" 1338
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_RMA.ubulk" 1339
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_N.uasset" 1340
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_N.uexp" 1341
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_N.ubulk" 1342
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_BC.uasset" 1343
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_BC.uexp" 1344
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_Shingle_01_BC.ubulk" 1345
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_RMA.uasset" 1346
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_RMA.uexp" 1347
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Default_RMA.ubulk" 1348
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/Masters/M_CF_01_Master_01.uasset" 1349
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/Masters/M_CF_01_Master_01.uexp" 1350
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Wood_Shingle_01.uasset" 1351
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Wood_Shingle_01.uexp" 1352
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_RMA.uasset" 1353
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_RMA.uexp" 1354
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_RMA.ubulk" 1355
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_N.uasset" 1356
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_N.uexp" 1357
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_N.ubulk" 1358
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_BC.uasset" 1359
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_BC.uexp" 1360
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Wood_01_BC.ubulk" 1361
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Wood_01.uasset" 1362
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Wood_01.uexp" 1363
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Shingle_Roof_Top_Tip_01.uasset" 1364
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Shingle_Roof_Top_Tip_01.uexp" 1365
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_RMA.uasset" 1366
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_RMA.uexp" 1367
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_RMA.ubulk" 1368
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_N.uasset" 1369
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_N.uexp" 1370
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_N.ubulk" 1371
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_BC.uasset" 1372
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_BC.uexp" 1373
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Textures/T_CF_01_Gate_02_Left_01_BC.ubulk" 1374
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Gate_02_Left_01.uasset" 1375
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Materials/M_CF_01_Gate_02_Left_01.uexp" 1376
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Gate_Drawbridge_Chains_01.uasset" 1377
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Meshes/SM_CF_01_Gate_Drawbridge_Chains_01.uexp" 1378
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Blueprints/BP_Chains_01.uasset" 1379
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Medieval_Castle_Vol1/Blueprints/BP_Chains_01.uexp" 1380
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/perete_exterior_2.uasset" 1381
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/perete_exterior_2.uexp" 1382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 1384
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/perete_exterior.uasset" 1385
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/perete_exterior.uexp" 1386
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/WB_SaveLoadRestartMenu_2.uasset" 1387
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/WB_SaveLoadRestartMenu_2.uexp" 1388
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_ambientOcclusion.uasset" 1389
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_ambientOcclusion.uexp" 1390
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_ambientOcclusion.ubulk" 1391
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_basecolor.uasset" 1392
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_basecolor.uexp" 1393
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_basecolor.ubulk" 1394
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_roughness.uasset" 1395
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_roughness.uexp" 1396
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_roughness.ubulk" 1397
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_normal.uasset" 1398
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_normal.uexp" 1399
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_normal.ubulk" 1400
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_basecolor_Mat.uasset" 1401
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate/pereti/Brick_Wall_018_basecolor_Mat.uexp" 1402
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate.uexp" 1403
+"D:/Proiecte Unreal/DrQuiz the s3rb4n cut/DrQuiz-V2-master/Content/Mape/Mate.umap" 1404
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1405
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1406
+"../../../Engine/Content/Maps/Entry.uexp" 1407
+"../../../Engine/Content/Maps/Entry.umap" 1408
